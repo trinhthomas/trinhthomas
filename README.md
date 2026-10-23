@@ -2,8 +2,8 @@
 
 … (2–3 Sätze über dich)
 
-- 🎓 Data and Information Science, TH Köln
-- 📊 Daten, die mich interessieren: …
-- 💼 …
+- Data and Information Science, TH Köln
+- Daten, die mich interessieren: …
+- 19 Jahre
 
-[Meine Data-Integration-Labs](https://github.com/trinhthomas/data-integration-labs)
+[Mein GitHub-Profil](https://github.com/trinhthomas)
