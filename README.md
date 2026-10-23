@@ -1,9 +1,9 @@
 # Thomas Trinh
+   
+Hi! Ich studiere Data and Information Science im 3. Semester an der TH Köln. In meiner Freizeit interessiere ich mich vor allem für Fußball und die Daten dahinter.
 
-… (2–3 Sätze über dich)
-
-- Data and Information Science, TH Köln
-- Daten, die mich interessieren: …
+- Tommy/Xuan Hoa
+- Daten, die mich interessieren: Fußball
 - 19 Jahre
 
 [Mein GitHub-Profil](https://github.com/trinhthomas)
